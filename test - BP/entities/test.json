@@ -8,7 +8,12 @@
             "is_summonable": true
         },
         "component_groups": {},
-        "components": {},
+        "components": {
+            "minecraft:physics": {
+                "has_collision": true,
+                "has_gravity": true
+            }
+        },
         "events": {}
     }
 }
