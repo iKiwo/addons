@@ -9,12 +9,9 @@
         },
         "component_groups": {},
         "components": {
-            "minecraft:physics": {
-                "has_collision": true,
-                "has_gravity": true
-            },
+            "minecraft:physics": {},
             "minecraft:movement": {
-                "value": 0.3
+                "value": 0.2
             },
             "minecraft:movement.basic": {
                 "max_turn": 30
