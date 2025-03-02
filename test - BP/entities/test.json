@@ -12,6 +12,18 @@
             "minecraft:physics": {
                 "has_collision": true,
                 "has_gravity": true
+            },
+            "minecraft:movement": {
+                "value": 0.3
+            },
+            "minecraft:movement.basic": {
+                "max_turn": 30
+            },
+            "minecraft:navigation.walk": {},
+            "minecraft:behavior.random_stroll": {
+                "interval": 120,
+                "xz_dist": 10,
+                "y_dist": 7
             }
         },
         "events": {}
