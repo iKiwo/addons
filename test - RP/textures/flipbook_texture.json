@@ -1,0 +1,7 @@
+[
+    {
+        "flipbook_texture": "textures/blocks/portal",
+        "atlas_tile": "portal",
+        "frames": [0]
+    }
+]
