@@ -10,12 +10,12 @@
         },
         "curves": {},
         "components": {
+            "minecraft:emitter_rate_instant": {
+                "num_particles": "(0.0)"
+            },
             "minecraft:emitter_lifetime_expression": {
                 "activation_expression": 0,
                 "expiration_expression": 1
-            },
-            "minecraft:emitter_rate_manual": {
-                "max_particles": 0
             }
         }
     }

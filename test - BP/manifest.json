@@ -4,15 +4,15 @@
         "description": "test BP",
         "name": "Test BP",
         "uuid": "797e01d9-d45f-4c67-b826-8a80a8a06950",
+        "version":[
+            1,
+            0,
+            1 
+        ],
         "min_engine_version": [
             1,
             20,
             60
-        ],
-        "version": [
-            1,
-            0,
-            1
         ]
     },
     "modules": [
