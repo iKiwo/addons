@@ -5,17 +5,17 @@
             "identifier": "minecraft:basic_portal_particle",
             "basic_render_parameters": {
                 "material": "particles_alpha",
-                "texture": "textures/particle/particle"
+                "texture": "textures/particle/portal"
             }
         },
         "curves": {},
         "components": {
             "minecraft:emitter_rate_instant": {
-                "num_particles": "(0.0)"
+                "num_particles": 0
             },
             "minecraft:emitter_lifetime_expression": {
                 "activation_expression": 0,
-                "expiration_expression": 1
+                "expiration_expression": 0
             }
         }
     }
